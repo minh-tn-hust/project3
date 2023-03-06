@@ -1,0 +1,2003 @@
+{"ERROR":"/home/minhtran/Documents/c7ab5ef0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/c7bf5c20-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/c7bf5c20-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/c7dc0be0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/c8e9f970-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/ca724720-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/cb4b1af0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/cb773400-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/cb733c60-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/cb733c60-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/cb9b36c0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ccc510c0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ccc510c0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ccd1baf0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ccd1baf0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/cd1bbc40-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/cd1bbc40-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/cd40a960-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/cd40a960-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ce155e80-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/ce1fe5d0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ce1fe5d0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ce456f30-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/cea06070-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/cf6759f0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d15e9610-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d2820770-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d319daa0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d4c20c60-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d66a3e20-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d6773670-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d7b7f3d0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/d7b7f3d0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/d7c64bb0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/d7e23820-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/d7e23820-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/da564560-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/da564560-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/db9d6b60-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/db9d6b60-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/dc3a6eb0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/dc3a6eb0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/dcdaa650-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/dd1899b0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/dd1899b0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/dd13b7b0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/dd86ebe0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/dd86ebe0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/de1e70f0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/de1e70f0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/de24d990-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/de24d990-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/de684b30-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e00b73e0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/e027ae70-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e027ae70-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e1a2b5b0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e1a2b5b0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/e1aeeab0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/e31139d0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e330a8b0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e3e3a500-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/e41f0050-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e43a2970-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e588a270-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/e5a02210-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/e5a29310-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e5a29310-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/e76096c0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e76096c0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e8af5de0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e8af5de0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e96392b0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/e96392b0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/e9804270-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/e9930720-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/e9aafbf0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/eacee280-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ebc7c170-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ed17e820-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ed17e820-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/ed3b9cc0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ed3b9cc0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/ed516eb0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ed516eb0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/eeb03b60-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/ef4cc980-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/ef4cc980-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/efbe28f0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/efbe28f0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/efd95210-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/efd95210-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f08dadf0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f08dadf0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f39dfb30-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/f3e42bf0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f3e42bf0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f4756f70-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f60b51b0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f60b51b0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f623e2c0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/f63e4890-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f63e4890-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f6586040-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f76feac0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f7f74330-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f7f74330-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/f8924ab0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f8924ab0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"/home/minhtran/Documents/f8ad73d0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/f8f57950-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f8f57950-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f90f1bd0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/f90f1bd0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/f94287e0-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"/home/minhtran/Documents/fab18130-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"/home/minhtran/Documents/fae673e0-bc3c-11ed-809b-fbd5db17ffd6.js:3\nconsole.log(obj.name)\n                ^\n\nTypeError: Cannot read property 'name' of null\n    at Object.<anonymous> (/home/minhtran/Documents/fae673e0-bc3c-11ed-809b-fbd5db17ffd6.js:3:17)\n    at Module._compile (internal/modules/cjs/loader.js:999:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"stdout":"Infinity\nNaN\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"stdout":"{ distance: 8, path: [ 'start', 'A', 'D', 'finish' ] }\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"/home/minhtran/Documents/fb418c30-bc3c-11ed-809b-fbd5db17ffd6.js:4\nconsole.log(name) console.log(age)\n                  ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at wrapSafe (internal/modules/cjs/loader.js:915:16)\n    at Module._compile (internal/modules/cjs/loader.js:963:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)\n    at Module.load (internal/modules/cjs/loader.js:863:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:708:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47\n"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+{"ERROR":"Time limit executed"}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '1678',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: `{"language":"javascript","text":"\\nconst problem = {\\n  start: {A: 5, B: 2},\\n  A: {C: 4, D: 2},\\n  B: {A: 8, D: 7},\\n  C: {D: 6, finish: 3},\\n  D: {finish: 1},\\n  finish: {}\\n};\\n\\nconst lowestCostNode = (costs, processed) => {\\n  return Object.keys(costs).reduce((lowest, node) => {\\n    if (lowest === null || costs[node] < costs[lowest]) {\\n      if (!processed.includes(node)) {\\n        lowest = node;\\n      }\\n    }\\n    return lowest;\\n  }, null);\\n};\\n\\n// function that returns the minimum cost and path to reach Finish\\nconst dijkstra = (graph) => {\\n\\n  // track lowest cost to reach each node\\n  const costs = Object.assign({finish: Infinity}, graph.start);\\n\\n  // track paths\\n  const parents = {finish: null};\\n  for (let child in graph.start) {\\n    parents[child] = 'start';\\n  }\\n\\n  // track nodes that have already been processed\\n  const processed = [];\\n\\n  let node = lowestCostNode(costs, processed);\\n\\n  while (node) {\\n    let cost = costs[node];\\n    let children = graph[node];\\n    for (let n in children) {\\n      let newCost = cost + children[n];\\n      if (!costs[n]) {\\n        costs[n] = newCost;\\n        parents[n] = node;\\n      }\\n      if (costs[n] > newCost) {\\n        costs[n] = newCost;\\n        parents[n] = node;\\n      }\\n    }\\n    processed.push(node);\\n    node = lowestCostNode(costs, processed);\\n  }\\n\\n  let optimalPath = ['finish'];\\n  let parent = parents.finish;\\n  while (parent) {\\n    optimalPath.push(parent);\\n    parent = parents[parent];\\n  }\\n  optimalPath.reverse();\\n\\n  const results = {\\n    distance: costs.finish,\\n    path: optimalPath\\n  };\\n\\n  return results;\\n};\\n\\nconsole.log(dijkstra(problem)); "}`
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 1678,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 1678\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '113',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: `{"language":"javascript","text":"\\nconst x = 10 / 0\\nconsole.log(x)\\n\\nconst y = 10 / 'hello'\\nconsole.log(y)\\n"}`
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 113,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 113\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '113',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: `{"language":"javascript","text":"\\nconst x = 10 / 0\\nconsole.log(x)\\n\\nconst y = 10 / 'hello'\\nconsole.log(y)\\n"}`
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 113,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 113\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
+AxiosError: socket hang up
+    at Function.AxiosError.from (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:825:14)
+    at RedirectableRequest.handleRequestError (/home/minhtran/Documents/Project/test/node_modules/axios/dist/node/axios.cjs:2973:25)
+    at RedirectableRequest.emit (events.js:314:20)
+    at ClientRequest.eventHandlers.<computed> (/home/minhtran/Documents/Project/test/node_modules/follow-redirects/index.js:14:24)
+    at ClientRequest.emit (events.js:314:20)
+    at Socket.socketOnEnd (_http_client.js:458:9)
+    at Socket.emit (events.js:326:22)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  code: 'ECONNRESET',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function], Blob: null },
+    validateStatus: [Function: validateStatus],
+    headers: AxiosHeaders {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/1.3.4',
+      'Content-Length': '80',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    method: 'post',
+    url: 'http://localhost:6500/code',
+    data: '{"language":"javascript","text":"\\nlet count = 0;\\nwhile(1) {\\n  count++;\\n}\\n"}'
+  },
+  request: Writable {
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: true,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: true,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    _events: [Object: null prototype] {
+      response: [Function: handleResponse],
+      error: [Function: handleRequestError],
+      socket: [Function: handleRequestSocket]
+    },
+    _eventsCount: 3,
+    _maxListeners: undefined,
+    _options: {
+      maxRedirects: 21,
+      maxBodyLength: Infinity,
+      protocol: 'http:',
+      path: '/code',
+      method: 'POST',
+      headers: [Object: null prototype],
+      agents: [Object],
+      auth: undefined,
+      beforeRedirect: [Function: dispatchBeforeRedirect],
+      beforeRedirects: [Object],
+      hostname: 'localhost',
+      port: '6500',
+      agent: undefined,
+      nativeProtocols: [Object],
+      pathname: '/code'
+    },
+    _ended: true,
+    _ending: true,
+    _redirectCount: 0,
+    _redirects: [],
+    _requestBodyLength: 80,
+    _requestBodyBuffers: [ [Object] ],
+    _onNativeResponse: [Function],
+    _currentRequest: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      connection: [Socket],
+      _header: 'POST /code HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/1.3.4\r\n' +
+        'Content-Length: 80\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: localhost:6500\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      insecureHTTPParser: undefined,
+      path: '/code',
+      _ended: false,
+      res: null,
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Circular],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    _currentUrl: 'http://localhost:6500/code',
+    [Symbol(kCapture)]: false
+  },
+  cause: Error: socket hang up
+      at connResetException (internal/errors.js:609:14)
+      at Socket.socketOnEnd (_http_client.js:458:23)
+      at Socket.emit (events.js:326:22)
+      at endReadableNT (_stream_readable.js:1241:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+    code: 'ECONNRESET'
+  }
+}
