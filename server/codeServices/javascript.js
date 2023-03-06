@@ -24,7 +24,7 @@ const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileNam
     return;
   }
     var command = "node " + configPath + fileName;
-    exec(command, { timeout: timeOut }, function (error, stdout, stderr) {
+    exec(command, { timeout: timeOut, killSignal: 'SIGKILL' }, function (error, stdout, stderr) {
       if (error) {
         if (env != "production") {
           console.log("Error: " + error);

@@ -43,20 +43,21 @@ app.post("/code", (req, res) => {
   if (!text || !(text.length > 1)) {
     res.status(422).send("Write some code!");
   }
-  console.log(language, text)
+  // console.log(language, text)
 
   switch (language) {
     case "javascript":
-      let randomId = Math.round(Math.random() * 10000);
+      var randomId = Math.round(Math.random() * 10000);
       ProcessManager.getInstance().addProcess(
         {
+          isRunning : false,
           pid : randomId,
           run : function() {
             javascript.run(text, function (data) {
+              ProcessManager.getInstance().finishRunning(randomId);
               res.status(200).json(data);
             });
-            ProcessManager.getInstance().finishRunning(randomId);
-          }
+          }.bind(res)
         }
       );
       ProcessManager.getInstance().runNextProcess();

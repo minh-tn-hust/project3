@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-let exampleCode = ' let count = 10000000000; while(count--);';
+let exampleCode = ' let count = 10000000; while(count--);';
 
 class API_TESTER {
   constructor() {
@@ -13,6 +13,7 @@ class API_TESTER {
     text : exampleCode
   }).then(response => {
     console.log("CALL SUCCESSFUL");
+
     })
     .catch(error => {
       console.log(error);
@@ -21,9 +22,13 @@ class API_TESTER {
 
 }
 let listRequest = [
-  new API_TESTER(),
 ]
+for (let i = 0; i < 1000; i++) {
+  listRequest.push(new API_TESTER());
+}
 
 for (let i = 0; i < listRequest.length; i++) {
-  listRequest[i].start();
+  setTimeout(function(){
+    listRequest[i].start();
+  }, Math.random() * 10000)
 }
