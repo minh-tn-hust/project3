@@ -1,6 +1,7 @@
-
+const child_process = require("child_process");
 const fs = require("fs");
 const exec = require("child_process").exec;
+const spawn = require("child_process").spawn;
 const { v1: uuidv1 } = require("uuid");
 const config = require("./config");
 const env = process.env.NODE_ENV;
@@ -23,35 +24,69 @@ const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileNam
     console.log("Error creating file: " + writeFileError);
     return;
   }
-    var command = "node " + configPath + fileName;
-    exec(command, { timeout: timeOut, killSignal: 'SIGKILL' }, function (error, stdout, stderr) {
-      if (error) {
-        if (env != "production") {
-          console.log("Error: " + error);
-          console.log("Stderr: " + stderr);
-        }
 
-        if (
-          error.toString().includes("ERR_CHILD_PROCESS_STDIO_MAXBUFFER")
-        ) {
-          errorMessage =
-            "Process terminated. 'maxBuffer' exceeded. This normally happens during an infinite loop.";
-        } else if (error.signal === "SIGTERM") {
-          errorMessage =
-            "Process terminated. Please check your code and try again.";
-        } else if (stderr) {
-          errorMessage = stderr;
-        } else {
-          errorMessage = "Something went wrong. Please try again";
-        }
-        func({ ERROR: errorMessage }, actualFile);
-      } else {
-        if (env != "production") {
-          console.log("Successfully executed !");
-        }
-        func({ stdout: stdout }, actualFile);
-      }
-    });
+  var command = "node " + ("/home/minhtran/Documents/" + fileName);
+  var processConfig = {
+    timeout : timeOut,
+    killSignal : 'SIGKILL',
+    cwd : process.cwd()
+  }
+  console.log(JSON.stringify(processConfig));
+  var child = spawn("node", ["/home/minhtran/Documents/" + fileName], processConfig)
+
+  child.stdout.on('data', (data) => {
+    console.log(`stdout : ${data}`);
+  })
+
+  child.stderr.on('data', (data) => {
+    console.log(`stderr : ${data}`);
+  })
+
+  child.on('close', (code, signal) => {
+    console.log('exit with code : ' + code);
+    console.log('exit with signal : ' + signal);
+  })
+
+  child.on('error', (err) => {
+    console.log(err);
+  })
+
+  setTimeout(function() {
+    child.kill();
+  }, 5000)
+    // let child = exec(command, { timeout: timeOut, killSignal: 'SIGINT' }, function (error, stdout, stderr) {
+    //   if (error) {
+    //     if (env != "production") {
+    //       console.log("Error: " + error);
+    //       console.log("Stderr: " + stderr);
+    //     }
+    //
+    //     if (
+    //       error.toString().includes("ERR_CHILD_PROCESS_STDIO_MAXBUFFER")
+    //     ) {
+    //       errorMessage =
+    //         "Process terminated. 'maxBuffer' exceeded. This normally happens during an infinite loop.";
+    //     } else if (error.signal === "SIGTERM") {
+    //       errorMessage =
+    //         "Process terminated. Please check your code and try again.";
+    //     } else if (stderr) {
+    //       errorMessage = stderr;
+    //     } else {
+    //       errorMessage = "Something went wrong. Please try again";
+    //     }
+    //     func({ ERROR: errorMessage }, actualFile);
+    //   } else {
+    //     if (env != "production") {
+    //       console.log("Successfully executed !");
+    //     }
+    //     func({ stdout: stdout }, actualFile);
+    //   }
+    // });
+    // console.log("RUNNING WITH PID = " + child.pid);
+    // 
+    // setTimeout(function(){
+    //   child.kill('SIGINT');
+    // }, 10000)
 
 }
 
