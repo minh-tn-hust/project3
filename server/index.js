@@ -9,19 +9,6 @@ const ProcessManager = require("./processManagement/processManagement");
 const java = require("./codeServices/java");
 const javascript = require("./codeServices/javascript");
 
-(function() {
-    var childProcess = require("child_process");
-    var oldSpawn = childProcess.spawn;
-    function mySpawn() {
-        console.log('spawn called');
-        console.log(arguments);
-        var result = oldSpawn.apply(this, arguments);
-        return result;
-    }
-    childProcess.spawn = mySpawn;
-})();
-
-
 
 app.use(formidable());
 
@@ -48,7 +35,7 @@ app.get("/", (req, res) =>
   )
 );
 
-app.post("/code", (req, res) => {
+let codeExecutingServer = app.post("/code", (req, res) => {
   console.log("Receive post code event");
   var text = req.fields.text;
   var language = req.fields.language;
@@ -84,6 +71,7 @@ app.post("/code", (req, res) => {
       res.status(422).send("Invalid programming language!");
   }
 });
+codeExecutingServer.timeout = 180000;
 
 app.listen(port, () =>
   console.log(`Backend listening at http://localhost:${port}`)

@@ -8,7 +8,6 @@ const env = process.env.NODE_ENV;
 const configPath = config.codePath;
 const timeOut = config.timeOut;
 
-// This should never happen
 const validate = (str) => {
   words = ["require(", "exports.", "module.exports"];
   // prevent imports
@@ -19,7 +18,7 @@ const validate = (str) => {
   return valid;
 };
 
-const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileName, func) {
+const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileName, sendResponseCallback) {
   if (writeFileError) {
     console.log("Error creating file: " + writeFileError);
     return;
@@ -31,63 +30,45 @@ const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileNam
     killSignal : 'SIGKILL',
     cwd : process.cwd()
   }
-  console.log(JSON.stringify(processConfig));
   var child = spawn("node", ["/home/minhtran/Documents/" + fileName], processConfig)
 
+  let response = {};
+  let hasAnswer = false;
+  let hasError = false;
+  let outputData = "";
+  let outputError = "";
+
+
+  child.stdout.setEncoding('utf8');
   child.stdout.on('data', (data) => {
-    console.log(`stdout : ${data}`);
+    hasAnswer = true;
+    outputData += data.toString();
   })
 
   child.stderr.on('data', (data) => {
-    console.log(`stderr : ${data}`);
-  })
-
-  child.on('close', (code, signal) => {
-    console.log('exit with code : ' + code);
-    console.log('exit with signal : ' + signal);
+    hasError = true;
+    outputError += data.toString();
   })
 
   child.on('error', (err) => {
-    console.log(err);
+    hasError = true;
+    outputError += data.toString();
   })
 
+  child.on('close', (code, signal) => {
+    if (signal == 'SIGTERM') {
+      sendResponseCallback({ERROR : "Time limit executed"}, actualFile);
+    } else {
+      if (hasError) {
+        sendResponseCallback({ERROR : outputError}, actualFile);
+      } else {
+        sendResponseCallback({stdout : outputData}, actualFile);
+      }
+    }
+  })
   setTimeout(function() {
     child.kill();
-  }, 5000)
-    // let child = exec(command, { timeout: timeOut, killSignal: 'SIGINT' }, function (error, stdout, stderr) {
-    //   if (error) {
-    //     if (env != "production") {
-    //       console.log("Error: " + error);
-    //       console.log("Stderr: " + stderr);
-    //     }
-    //
-    //     if (
-    //       error.toString().includes("ERR_CHILD_PROCESS_STDIO_MAXBUFFER")
-    //     ) {
-    //       errorMessage =
-    //         "Process terminated. 'maxBuffer' exceeded. This normally happens during an infinite loop.";
-    //     } else if (error.signal === "SIGTERM") {
-    //       errorMessage =
-    //         "Process terminated. Please check your code and try again.";
-    //     } else if (stderr) {
-    //       errorMessage = stderr;
-    //     } else {
-    //       errorMessage = "Something went wrong. Please try again";
-    //     }
-    //     func({ ERROR: errorMessage }, actualFile);
-    //   } else {
-    //     if (env != "production") {
-    //       console.log("Successfully executed !");
-    //     }
-    //     func({ stdout: stdout }, actualFile);
-    //   }
-    // });
-    // console.log("RUNNING WITH PID = " + child.pid);
-    // 
-    // setTimeout(function(){
-    //   child.kill('SIGINT');
-    // }, 10000)
-
+  }, timeOut)
 }
 
 const runCode = (code, func) => {
