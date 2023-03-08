@@ -50,11 +50,6 @@ const executingCodeAfterWriteFile = function(writeFileError, actualFile, fileNam
     outputError += data.toString();
   })
 
-  child.on('error', (err) => {
-    hasError = true;
-    outputError += data.toString();
-  })
-
   child.on('close', (code, signal) => {
     if (signal == 'SIGTERM') {
       sendResponseCallback({ERROR : "Time limit executed"}, actualFile);
